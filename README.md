@@ -1,5 +1,5 @@
 # Tugas Praktikum { Pertemuan ke 13 }
- <img src=https://qph.fs.quoracdn.net/main-qimg-648763cc041459725b62108f4fdf5b91 width="110px" > <img src= width="100px" >
+ <img src=https://qph.fs.quoracdn.net/main-qimg-648763cc041459725b62108f4fdf5b91 width="110px" >
 
  ## Profil
 |  |  |
