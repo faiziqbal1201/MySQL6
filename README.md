@@ -23,3 +23,6 @@ Sebuah perusahaan ingin membuat sistem untuk pengeloalaan data karyawan pada per
 
 Buatlah desain databasenya (ER-Diagram), beserta tabel datanya ?
 ![alt text](ER-Diagram/Database.jpg)
+
+## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> 
+## TERIMAKASIH
